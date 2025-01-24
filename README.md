@@ -1,8 +1,16 @@
-# 💫About Me :
-I'm currently working on App Development using flutter and AI for gaming algorithms..
-I'm looking to collaborate with other Flutter developer and Games developers.
-Looking for help with UX design and powerful and optimized ways to work with user data and game fluidity.
+# 💫 About Me:
+I'm an active contributor to the Gaming and AI communities on GitHub. Passionate about game development, artificial intelligence, and open-source collaboration, I enjoy building innovative projects that push the boundaries of technology.
 
+🛠 What I Do:
+🕹 Game Development – Exploring AI-driven mechanics, procedural generation, and immersive gaming experiences.
+🤖 Artificial Intelligence – Working with ML models, AI agents, and deep learning applications.
+🔍 Open-Source Contributions – Actively contributing to projects that enhance AI in gaming.
+🚀 Projects & Interests:
+🎮 AI-powered game mechanics
+🏔 Procedural world generation
+🧠 Machine learning in gaming
+🎯 Reinforcement learning for game AI
+Always open to collaborations and discussions—feel free to connect! 🚀
 
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/kushaladhikari13) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100079472226548) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kuusall/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kushal-micky-83444b21b/) 
