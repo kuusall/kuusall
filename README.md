@@ -20,8 +20,8 @@
 | Area | Description |
 |------|-------------|
 | 🕹 **Game Development** | Exploring AI-driven mechanics, procedural generation, and immersive gaming experiences. |
-| 🤖 **Artificial Intelligence** | Working with ML models, deep learning, and reinforcement learning for game AI. |
-| 🔍 **Open-Source** | Actively contributing to projects that enhance AI and gamification. |
+| 📱 **Moblie Applications** | Develop innovative mobile applications, focusing on creating user-friendly experiences with a blend of design, functionality, and cutting-edge technology. |
+| 🤖 **Artificial Intelligence** | Working with ML models, deep learning, and reinforcement learning for games and analysis systems. |
 
 ---
 
@@ -74,7 +74,6 @@ Let’s connect and build something impactful together! 🚀
 <table>
   <tr align="center">
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br/>C++</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/><br/>Dart</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/><br/>Flutter</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br/>Python</td>
   </tr>
@@ -85,7 +84,6 @@ Let’s connect and build something impactful together! 🚀
   <tr align="center">
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/><br/>Django</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br/>MySQL</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/><br/>Redis</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/><br/>Firebase</td>
   </tr>
 </table>
