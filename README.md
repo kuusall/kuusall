@@ -70,48 +70,41 @@ Let’s connect and build something impactful together! 🚀
 
 ## 🛠 Tech Stack
 
-<!-- Row 1 (4 icons) -->
+<!-- Row 1 -->
 <table>
   <tr align="center">
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br/>C++</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/><br/>Dart</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/><br/>Flutter</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br/>Python</td>
+  </tr>
+</table>
+
+<!-- Row 2 -->
+<table>
+  <tr align="center">
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/><br/>Django</td>
-  </tr>
-</table>
-
-<!-- Row 2 (2 icons) -->
-<table>
-  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br/>MySQL</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/><br/>Redis</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/><br/>PyTorch</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/><br/>Firebase</td>
   </tr>
 </table>
 
-<!-- Row 3 (4 icons) -->
+<!-- Row 3 -->
 <table>
   <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/><br/>PyTorch</td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/><br/>Scikit-learn</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/><br/>TensorFlow</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/><br/>Firebase</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/><br/>Docker</td>
-  </tr>
-</table>
-
-<!-- Row 4 (2 icons) -->
-<table>
-  <tr align="center">
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/><br/>Kubernetes</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" width="40" height="40"/><br/>D3.js</td>
+    <td><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="40"/><br/>Seaborn</td>
   </tr>
 </table>
 
-<!-- Row 5 (4 icons) -->
+<!-- Row 4 -->
 <table>
   <tr align="center">
-    <td><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="40"/><br/>Seaborn</td>
-    <td><img src="https://www.sfml-dev.org/images/logo.png" width="60" height="40"/><br/>SFML</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><br/>GitHub</td>
-    <td></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/><br/>Docker</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/><br/>Kubernetes</td>
   </tr>
 </table>
