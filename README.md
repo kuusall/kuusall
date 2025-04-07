@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm **Kushal**, a passionate **Computer Engineering undergrad from Nepal** 🇳🇵.
 
-🎯 I'm deeply interested in:
+🎯 I'm deeply interested in: 
 - 🎮 **Game Development**
 - 🤖 **Artificial Intelligence & Machine Learning**
 - 📱 **Mobile Application Development**
