@@ -29,11 +29,6 @@
       </a>
     </td>
   </tr>
-  <tr align="center">
-    <td>Facebook</td>
-    <td>Instagram</td>
-    <td>LinkedIn</td>
-  </tr>
 </table>
 
 
