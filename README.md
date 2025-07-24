@@ -50,7 +50,6 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/><br/>Django</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br/>MySQL</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/><br/>Firebase</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/restapi/restapi-plain.svg" width="40" height="40"/><br/>REST API</td>
   </tr>
 </table>
 
