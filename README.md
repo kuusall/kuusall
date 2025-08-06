@@ -6,6 +6,10 @@
 - 🤖 **Artificial Intelligence & Machine Learning**
 - 📱 **Mobile Application Development**
 - 🧩 **Open-Source Collaboration**
+🔭 I’m currently working on Nep-Text (nepali sentiment analysis transformer) and deeplearning for vehicle automated driving.
+🌱 I’m currently learning Rust and Rocket framework.
+
+📫 Reach me at kushaladk18@proton.me
 
 
 
@@ -45,6 +49,17 @@
 </table>
 
 <!-- Row 2 -->
+
+<table>
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br/>Git</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><br/>GitHub</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br/>JavaScript
+    </td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><br/>React</td>
+
+<!-- Row 3 -->
+
+
 <table>
   <tr align="center">
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/><br/>Django</td>
@@ -52,8 +67,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/><br/>Firebase</td>
   </tr>
 </table>
-
-<!-- Row 3 -->
+<!-- Row 4 -->
 <table>
   <tr align="center">
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/><br/>PyTorch</td>
@@ -61,3 +75,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/><br/>TensorFlow</td>
   </tr>
 </table>
+
+  </tr>
+</table>
+
