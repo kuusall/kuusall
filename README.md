@@ -2,13 +2,13 @@
 
 👋 Hi there! I'm **Kushal**, a passionate **Computer Engineering undergrad from Nepal** 🇳🇵.
 
-🎯 I'm deeply interested in: 
+#### 🎯 I'm deeply interested in: 
 - 🤖 **Artificial Intelligence & Machine Learning**
 - 📱 **Mobile Application Development**
 - 🧩 **Open-Source Collaboration**
-
-🔭 I’m currently working on Nep-Text (nepali sentiment analysis transformer) and deeplearning for vehicle automated driving.
-🌱 I’m currently learning Rust and Rocket framework.
+  
+#### 🔭 I’m currently working on Nep-Text (nepali sentiment analysis transformer) and deeplearning for vehicle automated driving.
+#### 🌱 I’m currently learning Rust and Rocket framework.
 
 📫 Reach me at kushaladk18@proton.me
 
