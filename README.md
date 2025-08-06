@@ -6,6 +6,7 @@
 - 🤖 **Artificial Intelligence & Machine Learning**
 - 📱 **Mobile Application Development**
 - 🧩 **Open-Source Collaboration**
+
 🔭 I’m currently working on Nep-Text (nepali sentiment analysis transformer) and deeplearning for vehicle automated driving.
 🌱 I’m currently learning Rust and Rocket framework.
 
