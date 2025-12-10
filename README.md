@@ -32,7 +32,7 @@
 
 ## 📝 Resume
 <p align="center">
-  <a href="./docs/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/CV-Download-blue?style=for-the-badge&logo=adobe&logoColor=white" /></a>
+  <a href="./resume.pdf" target="_blank"><img src="https://img.shields.io/badge/CV-Download-blue?style=for-the-badge&logo=adobe&logoColor=white" /></a>
 </p>
 
 ## 🛠 Tech Stack
