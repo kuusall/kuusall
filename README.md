@@ -1,28 +1,45 @@
-# 💫 About Me
+<h1 align="center">👋 Hi there! I'm Kushal Adhikari </h1>
 
-👋 Hi there! I'm **Kushal**, a passionate **Computer Engineering undergrad from Nepal** 🇳🇵.
+<p align="center">A <b>Computer Engineering Undergrad</b> and <b>Passionate Software Developer</b> from Nepal 🇳🇵.</p>
 
 #### 🎯 I'm deeply interested in: 
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 📱 **Mobile Application Development**
-- 🧩 **Open-Source Collaboration**
+- 🤖 Artificial Intelligence & Machine Learning
+- 📱 Mobile Application Development
+- 🧩 Open-Source Collaborations
   
-#### 🔭 I’m currently working on Nep-Text (nepali sentiment analysis transformer) and deeplearning for vehicle automated driving.
-#### 🌱 I’m currently learning Rust and Rocket framework.
+#### 🔭 Working on!
+- Nep-Text | Nepali Sentiment Analysis Transformer | mBART, BERT, T5
+- tripSathi | Expense manager tools for friends and family | Flutter, Firebase, PostgreSQL
+- Deeplearning for Automated Vehicle Driving | Tensorflow, PyTorch
+  
+#### 🌱 Currently learning
+- Rust language and Rocket framework
+- NLP and Transformers
+- Computer Vision in Automated Driving Systems
 
 ## 🌐 Socials
-## 🗣️ Let's Connect
+<p align="center">
+  <a href="https://web.facebook.com/kuusalll"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/techbykushal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
+## 🗣️ Let's Connect
 <p align="center">
   <a href="mailto:kushaladk18@proton.me"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/kuusall"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/kuusall/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
+## 📝 Resume
+<p align="center">
+  <a href="./docs/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/CV-Download-blue?style=for-the-badge&logo=adobe&logoColor=white" /></a>
+</p>
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,nodejs,py,cpp,github,vscode,firebase,supabase,figma,git" /><br/>
-  <img src="https://skillicons.dev/icons?i=linux,rust,nvim,cargo,dart,tf,scikit-learn,PyTorch" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,git,github,vscode" /><br/>
+  <img src="https://skillicons.dev/icons?i=py,cpp,linux,rust,vim,dart,flutter,firebase,supabase,figma,docker,kubernetes" />
 </p>
+
+
 
