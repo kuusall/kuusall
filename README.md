@@ -10,12 +10,12 @@
 #### 🔭 Working on!
 - Nep-Text | Nepali Sentiment Analysis Transformer | mBART, BERT, T5
 - tripSathi | Expense manager tools for friends and family | Flutter, Firebase, PostgreSQL
-- Deeplearning for Automated Vehicle Driving | Tensorflow, PyTorch
+- Deeplearning, Imitation Learning and RL for Automated Vehicle Driving | Tensorflow, PyTorch
   
 #### 🌱 Currently learning
 - Rust language and Rocket framework
 - NLP and Transformers
-- Computer Vision in Automated Driving Systems
+- Computer Vision
 
 ## 🌐 Socials
 <p align="center">
