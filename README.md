@@ -7,11 +7,6 @@
 - 📱 Mobile Application Development
 - 🧩 Open-Source Collaborations
   
-#### 🔭 Working on!
-- Nep-Text | Nepali Sentiment Analysis Transformer | mBART, BERT, T5
-- tripSathi | Expense manager tools for friends and family | Flutter, Firebase, PostgreSQL
-- Deeplearning, Imitation Learning and RL for Automated Vehicle Driving | Tensorflow, PyTorch
-  
 #### 🌱 Currently learning
 - Rust language and Rocket framework
 - NLP and Transformers
