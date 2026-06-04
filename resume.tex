@@ -1,118 +1,130 @@
 \documentclass[11pt,a4paper]{article}
-\usepackage[margin=1in]{geometry}
+
+\usepackage[margin=0.9in]{geometry}
 \usepackage{enumitem}
 \usepackage{titlesec}
 \usepackage{hyperref}
-\usepackage{setspace}
-\usepackage{tabularx}
 \usepackage{fontawesome5}
 \usepackage{parskip}
 
 \hypersetup{
     colorlinks=true,
-    urlcolor=black
+    urlcolor=blue,
+    linkcolor=blue,
+    citecolor=blue
 }
-
-\setstretch{1.1}
 
 \titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
 
 \begin{document}
 
-% ---------- HEADER ----------
+% ================= HEADER =================
 \begin{center}
-    {\LARGE \textbf{Kushal Adhikari}} \\
-    Undergraduate Computer Engineering Student \\
-    Dharan, Sunsari, Nepal \\
-    \vspace{0.2cm}
-    \href{mailto:kushaladk18@gmail.com}{kushaladk18@gmail.com} $|$ +977-9748307735 \\
-    \href{https://www.linkedin.com/in/kuusall/}{LinkedIn} $|$
-    \href{https://github.com/kuusall}{GitHub}
+    {\LARGE \textbf{Kushal Adhikari}} \\[4pt]
+    AI/ML Engineer | Software Developer | Product Builder \\[6pt]
+
+    \faEnvelope\ \href{mailto:kushaladk18@gmail.com}{kushaladk18@gmail.com}
+    \hspace{0.4cm} | \hspace{0.4cm}
+    \faPhone\ +977-9748307735 \\[4pt]
+
+    \faLinkedin\ \href{https://www.linkedin.com/in/kuusall/}{linkedin.com/in/kuusall}
+    \hspace{0.4cm} | \hspace{0.4cm}
+    \faGithub\ \href{https://github.com/kuusall}{github.com/kuusall}
 \end{center}
 
-% ---------- SUMMARY ----------
-\section*{Summary}
-Computer Engineering undergraduate from Nepal with strong experience in mobile application development using Flutter. Skilled in AI/ML-based data analysis, backend development with Rust, and UI/UX design. Actively involved in hackathons, research, and innovation-driven projects. Passionate about building scalable, user-centric applications and exploring emerging technologies.
+% ================= SUMMARY =================
+\section*{Professional Summary}
 
-% ---------- TECHNICAL SKILLS ----------
+Computer Engineering graduate specializing in AI/ML, NLP, and product development. Co-founder and developer of award-winning solutions including MindBridge, an inclusive learning platform for dyslexic children, MindGuard, a digital mental health platform, and NepText, a Nepali language assistance extension. Winner of ICT Awards 2025 Rising Star Innovation and multiple national hackathons.
+% ================= SKILLS =================
 \section*{Technical Skills}
-\textbf{App Development:} Flutter, Dart, Firebase, Supabase, Hive, Provider, Riverpod, REST APIs \\
-\textbf{AI / Machine Learning:} OpenCV, HuggingFace, NLTK, NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch \\
-\textbf{Backend Development:} Rust, Rocket Framework, PostgreSQL, JWT, OAuth2, Async Programming \\
-\textbf{Scripting and Automation:} Python, Bash, CLI Tools, Rust \\
-\textbf{UI/UX Design Tools:} Figma, Canva, Blender, Flutter Animations \\
-\textbf{Platforms:} Git, GitHub, Docker, GitHub Actions, Neovim, Arch Linux
 
-% ---------- EDUCATION ----------
+\textbf{Languages:} Python, Rust, Dart, JavaScript, C/C++, SQL
+
+\textbf{ML/NLP:} PyTorch, TensorFlow, OpenCV, Transformers, Language Modeling
+
+\textbf{Development:} Flutter, Firebase, Supabase, Hive, PostgreSQL, REST APIs, JWT, OAuth2
+
+\textbf{Tools:} Git, Docker, Linux, GitHub Actions
+% ================= PROJECTS =================
+\section*{Selected Projects}
+\textbf{MindBridge — Inclusive Learning Platform for Dyslexic Children}
+\hfill
+\href{https://mindbridge.com}{Demo}
+\begin{itemize}[leftmargin=*]
+    \item Co-founded, Designed and developed an AI-powered learning platform for dyslexic children using adaptive learning techniques.
+    \item Built accessibility-focused educational modules to improve reading and comprehension support.
+    \item Integrated AI-driven personalization for learning assistance and engagement.
+    \item Winner of ICT Awards 2025 (Rising Star Innovation) and multiple national innovation competitions.
+\end{itemize}
+
+\textbf{MindGuard — Digital Mental Health Platform for PTSD Care}
+\hfill
+\href{https://mindbridge.com}{Demo}
+\begin{itemize}[leftmargin=*]
+    \item Co-founded and developed a digital platform for PTSD screening, symptom monitoring, and clinician-supported patient management.
+    \item Engineered a scalable data collection pipeline for capturing patient-reported mental health indicators and longitudinal outcomes.
+    \item Developed interactive therapeutic modules inspired by cognitive behavioral therapy (CBT), mindfulness practices, and stress-reduction techniques.
+    \item Designed clinician-facing workflows for monitoring symptom progression and treatment effectiveness.
+    \item Recognized through multiple national innovation and startup competitions.
+\end{itemize}
+\textbf{NepText — Nepali Language Assistance Extension} \hfill
+\href{https://mindbridge.com}{Demo}
+\begin{itemize}[leftmargin=*]
+    \item Developed a browser extension providing Nepali spelling correction, word prediction, and writing assistance.
+    \item Implemented contextual text enhancement using machine learning techniques.
+    \item Focused on improving digital writing experience for Nepali users.
+\end{itemize}
+
+
+
+
+% ================= RESEARCH =================
+\section*{Research Experience}
+
+\begin{itemize}[leftmargin=*]
+\item Developed machine learning models for suspicious transaction detection; recognized by Global IME Bank.
+\item Researched transformer-based approaches for Nepali NLP and low-resource language understanding.
+\end{itemize}
+
+% ================= LEADERSHIP =================
+\section*{Leadership \& Entrepreneurship}
+
+\textbf{Campus Director — Hult Prize IOEPC}
+\hfill 2024--2025
+
+\begin{itemize}[leftmargin=*]
+    \item Led campus-wide entrepreneurship and innovation initiatives.
+    \item Managed sponsorships, partnerships, and event coordination.
+\end{itemize}
+
+\textbf{Technical Manager — Hult Prize IOEPC}
+\hfill 2023--2024
+
+\begin{itemize}[leftmargin=*]
+    \item Managed technical infrastructure and digital platforms.
+    \item Automated workflows supporting competition operations.
+\end{itemize}
+% ================= AWARDS =================
+\section*{Awards \& Achievements}
+
+\begin{itemize}[leftmargin=*]
+\item ICT Awards 2025 Rising Star Innovation Winner
+\item DeerHack 2025 Winner (Open Innovation)
+\item Hack-a-Week 2025 Winner (EdTech)
+\item Hacks for Nepal 2025 Winner
+\item Birat Trade Expo Idea Studio 2026 Winner
+\item Vision Koshi Startup Hackathon 2025 Second Runner-Up
+\item Global IME Bank Research Recognition
+\end{itemize}
+
+% ================= EDUCATION =================
 \section*{Education}
-\textbf{Bachelor of Computer Engineering} \hfill Apr 2022 -- Present \\
-IOE Purwanchal Campus, Tribhuvan University \\
-Dharan-15, Sunsari, Nepal \\
 
-\textbf{+2 Level Education (Science)} \hfill Jul 2018 -- Oct 2021 \\
-Valmiki Siksha Sadan, Bharatpur-4, Chitwan \\
-GPA: 3.56 \\
+\textbf{Bachelor of Computer Engineering} \\
+IOEPC, Tribhuvan University \\
 
-\textbf{Secondary Education Examination (SEE)} \hfill Apr 2011 -- Apr 2018 \\
-Sun-Rise English School, Bharatpur-4, Chitwan \\
-GPA: 3.75 \\
-% ---------- WORK EXPERIENCE ----------
-\section*{Work Experience}
-\begin{itemize}[leftmargin=*]
-\item\textbf{Campus Director} -- Hult Prize On-Campus Program, IOE Purwanchal Campus \\
-\textit{Nov 2024 -- Mar 2025}\\\end{itemize}
-Led and managed campus-wide innovation and entrepreneurship initiatives.\\
-Coordinated teams, events, and stakeholder engagement for program success.\\
-Brought sponsorships and promoted startup culture on campus.\\
-\begin{itemize}[leftmargin=*]
-\item \textbf{Content Curator} -- ERC Research Center \\
-\textit{Aug 2023 -- Jun 2024}\end{itemize}
-Created and curated technical and research-focused content.\\
-\begin{itemize}[leftmargin=*]
-\item\textbf{Technical Manager} -- Hult Prize On-Campus Program, IOE Purwanchal Campus \\
-\textit{Nov 2023 -- Mar 2024}\end{itemize}
-Oversaw technical planning, digital platforms, and workflow automation.\\
-
-
-
-% ---------- CERTIFICATIONS ----------
-\section*{Certifications and Achievements}
-\textbf{Academics and Fellowships}\\
-\begin{itemize}[leftmargin=*]
-\item\textbf{Annual Nepal AI School (ANAIS) 2025} \\
-Issued by NAAMII \hfill January 2026 \\
-Verification: \href{https://drive.google.com/file/d/1Sr3rp1zl4NWp0TdxvILeS1jXPaB0FDot/view?usp=sharing}{Click Here}\\
-\end{itemize}
-\textbf{Recognitions}\\
-\begin{itemize}[leftmargin=*]
-\item\textbf{Research Paper on Suspicious Transaction Detection} \\
-Extremely Useful Category\\
-Issued by Global IME Bank \hfill June 2025 \\
-Credential ID: GIBL-1412371200 \\
-Verification: \href{https://drive.google.com/file/d/1X9oFkAILdbKr71Fyy9CtRMP2FJUfhR-k/view?usp=drive_link}{Click Here}\\
-\item\textbf{Mind Bridge -- ICT AWARDS} \\
-Biggest Tech Award of Nepal\\
-Rising Star Innovation Category\\
-Recognized by ICT foundation, MoCIT, MoEST \hfill December 2025 \\
-Verification: \href{https://drive.google.com/file/d/16t_EzUsjGYRTPl39gC5XyV5LoZOw9ahF/view?usp=sharing}{Click Here}
-\end{itemize}
-\textbf{Competitions}\\
-\begin{itemize}[leftmargin=*]
-    \item \textbf{Winner, ICT Awards 2025 -- Rising Star Innovation} 
-    \item \textbf{Winner, Hack-a-Week 2025 -- Pulchowk Campus (Ed-Tech Category)} -- \href{https://drive.google.com/file/d/176lwP3Q7-toYwaU79nsWZtJ2wdrLyGdh/view?usp=sharing}{Click Here}
-    \item \textbf{Winner, DeerHack 2025 -- DWIT (Open Innovation Category)} -- \href{https://drive.google.com/file/d/12KR5eVgFQFR1xN7OqqKIrCpToKwqnogU/view?usp=sharing}{Click Here}
-    \item \textbf{Second Runner Up, Vision Koshi Startup Hackathon 2025} -- \href{https://drive.google.com/file/d/1gsib0xX6hmS0n7Lojr1p7y5d6irzfWlE/view?usp=sharing}{Click Here}
-    \item \textbf{Winner, Hacks for Nepal 2025} -- \href{https://drive.google.com/file/d/1EUN44Xdtp-y9Tj7MCPhfvPx3UZRU7o0K/view?usp=sharing}{Click Here}
-    \item \textbf{Participant, Global IME Bank Hackathon 2025}
-    \item \textbf{Participant, Business Idea Contest 2025 -- NYEF Koshi} -- \href{https://drive.google.com/file/d/1SCkyNNLbXPVl7lqhfSoBp_u3dRzy9HS3/view?usp=sharing}{Click Here}
-    \item \textbf{Participant, Codefest 2025} -- \href{https://drive.google.com/file/d/1KDZcYfyprGdf1LFtVYe0S56vQgnkAyTR/view?usp=sharing}{Click Here}
-    \item \textbf{Participant, KU HackFest 2026} -- \href{https://drive.google.com/file/d/19YXRgFi8N4HO4IrqgC-OzIuvgPIZC34j/view?usp=sharing}{Click Here}
-    \item \textbf{Participant, Code for Impact (US-Nepal) 2026} -- \href{https://drive.google.com/file/d/1F27mQNfWtooq16dSN1Y63OmwW3sbpbq5/view?usp=sharing}{Click Here}
-    \item \textbf{Winner, Birat Trade Expo Idea Studio 2026} 
-\end{itemize}
-
-% ---------- INTERESTS ----------
-\section*{Career Focus}
-Building a strong career in mobile application development, AI-driven solutions, and innovative product engineering with a focus on scalable and impactful technology.
+\textbf{+2 Science (GPA: 3.56)}\\
+Valmiki Siksha Sadan
 
 \end{document}
